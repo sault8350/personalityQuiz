@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Questions_ViewController: UIViewController {
+class ResultsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
