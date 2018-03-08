@@ -14,6 +14,7 @@
 		413D955C20471C4800CD1E14 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 413D955A20471C4800CD1E14 /* LaunchScreen.storyboard */; };
 		415BABC9204DB2F1000ED1FA /* QuestionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415BABC8204DB2F1000ED1FA /* QuestionsViewController.swift */; };
 		415BABCB204DB343000ED1FA /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415BABCA204DB343000ED1FA /* ResultsViewController.swift */; };
+		41F9DF6D20519D5F00157D84 /* QuestionsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41F9DF6C20519D5F00157D84 /* QuestionsData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		413D955D20471C4800CD1E14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		415BABC8204DB2F1000ED1FA /* QuestionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionsViewController.swift; sourceTree = SOURCE_ROOT; };
 		415BABCA204DB343000ED1FA /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = SOURCE_ROOT; };
+		41F9DF6C20519D5F00157D84 /* QuestionsData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionsData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				413D955120471C4800CD1E14 /* AppDelegate.swift */,
 				413D955320471C4800CD1E14 /* ViewController.swift */,
 				413D955520471C4800CD1E14 /* Main.storyboard */,
+				41F9DF6C20519D5F00157D84 /* QuestionsData.swift */,
 				415BABCA204DB343000ED1FA /* ResultsViewController.swift */,
 				415BABC8204DB2F1000ED1FA /* QuestionsViewController.swift */,
 				413D955820471C4800CD1E14 /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 				413D955420471C4800CD1E14 /* ViewController.swift in Sources */,
 				413D955220471C4800CD1E14 /* AppDelegate.swift in Sources */,
 				415BABC9204DB2F1000ED1FA /* QuestionsViewController.swift in Sources */,
+				41F9DF6D20519D5F00157D84 /* QuestionsData.swift in Sources */,
 				415BABCB204DB343000ED1FA /* ResultsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
