@@ -9,17 +9,25 @@
 import UIKit
 
 class initialViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-    @IBAction func beginButtonPushed(_ sender: UIButton) {
-        performSegue(withIdentifier: "resultsSegue", sender: nil)
+
+    
+    
+    @IBAction func BeginButton(_ sender: UIButton) {
+        performSegue(withIdentifier: "initialSegue", sender: nil)
     }
     
     
+    
+    @IBAction func UnwindToQuizIntroduction(segue: UIStoryboardSegue) {
+        
     }
+    }
+
 
 
 
